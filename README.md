@@ -1,4 +1,5 @@
 # Pingu Desktop Pet
+<img width="1026" height="527" alt="image" src="https://github.com/user-attachments/assets/bdd1b168-ef87-4880-ad7e-74840db9ac41" />
 
 `Pingu`는 Windows 화면 위를 걸어 다니는 가벼운 데스크톱 펫 프로그램입니다. 투명한 항상-위 창에서 펭귄이 발을 번갈아 움직이고 양 날개를 파닥거리며 화면 하단을 왕복합니다.
 
@@ -142,6 +143,8 @@ build\assets\penguin_walk.png
 실행 파일은 자신의 위치를 기준으로 `assets\penguin_walk.png`를 찾으므로 폴더 구조를 변경하면 스프라이트를 불러올 수 없습니다.
 
 ### 종료 방법
+<img width="182" height="74" alt="image" src="https://github.com/user-attachments/assets/aaf68897-0fb9-4698-873c-1c51706f7c5f" />
+
 
 `작업표시줄의 Pingu 트레이 아이콘을 오른쪽 클릭한 뒤 `Exit Desktop Pet`을 선택합니다.
 
